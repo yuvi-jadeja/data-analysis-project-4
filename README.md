@@ -1,4 +1,4 @@
-# data-analysis-project-r
+# data-analysis-project-4
 Optimizing Diwali Sales: A Data Analysis Project Using Python
 
 In this project, I employed Python to analyse a company's sales data during the Diwali season. The goal was to uncover actionable insights to help the company enhance its sales strategies and boost revenue during this crucial period.
